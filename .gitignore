@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test output
+*.log
+
+# Unit test / coverage tools
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# MacOS system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Go build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
