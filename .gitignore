@@ -33,3 +33,14 @@ ENV/
 *.dylib
 *.test
 *.out
+
+# Compiled binaries
+*.o
+test_solution
+
+# C/C++ intermediate files
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
