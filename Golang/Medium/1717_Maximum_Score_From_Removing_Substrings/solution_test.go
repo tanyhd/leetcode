@@ -2,7 +2,7 @@ package maximumscorefromremovingsubstrings
 
 import "testing"
 
-func TestTotalFruit(t *testing.T) {
+func TestMaximumGain(t *testing.T) {
 	tests := []struct {
 		name     string
 		s        string

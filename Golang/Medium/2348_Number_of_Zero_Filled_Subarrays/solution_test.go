@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestNumberOfWays(t *testing.T) {
+func TestZeroFilledSubarray(t *testing.T) {
 	tests := []struct {
 		name     string
 		nums     []int

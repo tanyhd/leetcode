@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestNumberOfWays(t *testing.T) {
+func TestCountSquares(t *testing.T) {
 	tests := []struct {
 		name     string
 		matrix   [][]int

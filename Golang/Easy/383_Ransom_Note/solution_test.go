@@ -2,7 +2,7 @@ package ransomnote
 
 import "testing"
 
-func TestMakeFancyString(t *testing.T) {
+func TestCanConstruct(t *testing.T) {
 	tests := []struct {
 		name       string
 		ransomNote string

@@ -2,7 +2,7 @@ package poweroffour
 
 import "testing"
 
-func TestIsPowerOfThree(t *testing.T) {
+func TestIsPowerOfFour(t *testing.T) {
 	tests := []struct {
 		name     string
 		n        int

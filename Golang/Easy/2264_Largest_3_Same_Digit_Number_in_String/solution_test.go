@@ -2,7 +2,7 @@ package largest3samedigitnumberinstring
 
 import "testing"
 
-func TestNumOfUnplacedFruits(t *testing.T) {
+func TestLargestGoodInteger(t *testing.T) {
 	tests := []struct {
 		name     string
 		num      string

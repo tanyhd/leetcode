@@ -2,7 +2,7 @@ package maximum69number
 
 import "testing"
 
-func TestMakeFancyString(t *testing.T) {
+func TestMaximum69Number(t *testing.T) {
 	tests := []struct {
 		name     string
 		num      int
